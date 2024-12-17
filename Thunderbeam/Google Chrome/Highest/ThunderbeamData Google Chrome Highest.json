@@ -1,0 +1,714 @@
+{
+  "a.thumbs.redditmedia.com": {
+    "hostname": "a.thumbs.redditmedia.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ab.chatgpt.com": {
+    "hostname": "ab.chatgpt.com",
+    "firstPartyHostnames": [
+      "chatgpt.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "accounts.google.com": {
+    "hostname": "accounts.google.com",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "stackoverflow.com",
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apw.economictimes.indiatimes.com": {
+    "hostname": "apw.economictimes.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.guim.co.uk": {
+    "hostname": "assets.guim.co.uk",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.thumbs.redditmedia.com": {
+    "hostname": "b.thumbs.redditmedia.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.oaistatic.com": {
+    "hostname": "cdn.oaistatic.com",
+    "firstPartyHostnames": [
+      "chatgpt.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.sstatic.net": {
+    "hostname": "cdn.sstatic.net",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "chatgpt.com": {
+    "hostname": "chatgpt.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.oaistatic.com",
+      "ab.chatgpt.com",
+      "web-sandbox.oaiusercontent.com"
+    ]
+  },
+  "cmp.dmgmediaprivacy.co.uk": {
+    "hostname": "cmp.dmgmediaprivacy.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.jquery.com": {
+    "hostname": "code.jquery.com",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent.youtube.com": {
+    "hostname": "consent.youtube.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "fonts.gstatic.com",
+      "fonts.googleapis.com"
+    ]
+  },
+  "contributions.guardianapis.com": {
+    "hostname": "contributions.guardianapis.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dev.fandom.com": {
+    "hostname": "dev.fandom.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "docs.python.org": {
+    "hostname": "docs.python.org",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "economictimes.indiatimes.com": {
+    "hostname": "economictimes.indiatimes.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "img.etimg.com",
+      "timesofindia.indiatimes.com",
+      "apw.economictimes.indiatimes.com",
+      "jsso.indiatimes.com",
+      "offers.indiatimes.com",
+      "platform.twitter.com",
+      "www.instagram.com",
+      "www.youtube.com",
+      "syndication.twitter.com",
+      "jnn-pa.googleapis.com",
+      "www.linkedin.com",
+      "yt3.ggpht.com",
+      "static.licdn.com",
+      "rr8---sn-vg5obxn25po-cjo6.googlevideo.com",
+      "media.licdn.com",
+      "i.ytimg.com"
+    ]
+  },
+  "emoji.redditmedia.com": {
+    "hostname": "emoji.redditmedia.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "en.wikipedia.org": {
+    "hostname": "en.wikipedia.org",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "upload.wikimedia.org",
+      "login.wikimedia.org"
+    ]
+  },
+  "external-preview.redd.it": {
+    "hostname": "external-preview.redd.it",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "firstPartyHostnames": [
+      "consent.youtube.com",
+      "www.youtube.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "consent.youtube.com",
+      "www.youtube.com",
+      "www.reddit.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hulkprod.anm.co.uk": {
+    "hostname": "hulkprod.anm.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.dailymail.co.uk": {
+    "hostname": "i.dailymail.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.guim.co.uk": {
+    "hostname": "i.guim.co.uk",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.redd.it": {
+    "hostname": "i.redd.it",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.sstatic.net": {
+    "hostname": "i.sstatic.net",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ytimg.com": {
+    "hostname": "i.ytimg.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "economictimes.indiatimes.com",
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i9.ytimg.com": {
+    "hostname": "i9.ytimg.com",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images-na.ssl-images-amazon.com": {
+    "hostname": "images-na.ssl-images-amazon.com",
+    "firstPartyHostnames": [
+      "www.amazon.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.etimg.com": {
+    "hostname": "img.etimg.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jnn-pa.googleapis.com": {
+    "hostname": "jnn-pa.googleapis.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jsso.indiatimes.com": {
+    "hostname": "jsso.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "launcher.spot.im": {
+    "hostname": "launcher.spot.im",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "login.wikimedia.org": {
+    "hostname": "login.wikimedia.org",
+    "firstPartyHostnames": [
+      "en.wikipedia.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.media-amazon.com": {
+    "hostname": "m.media-amazon.com",
+    "firstPartyHostnames": [
+      "www.amazon.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media.licdn.com": {
+    "hostname": "media.licdn.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "minecraft.fandom.com": {
+    "hostname": "minecraft.fandom.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "static.wikia.nocookie.net",
+      "services.fandom.com",
+      "script.wikia.nocookie.net",
+      "dev.fandom.com",
+      "www.fandom.com",
+      "www.youtube.com",
+      "fonts.gstatic.com",
+      "www.google.com",
+      "i.ytimg.com",
+      "jnn-pa.googleapis.com",
+      "yt3.ggpht.com",
+      "www.gstatic.com"
+    ]
+  },
+  "numpydoc.readthedocs.io": {
+    "hostname": "numpydoc.readthedocs.io",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "offers.indiatimes.com": {
+    "hostname": "offers.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform-lookaside.fbsbx.com": {
+    "hostname": "platform-lookaside.fbsbx.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "players.brightcove.net": {
+    "hostname": "players.brightcove.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "preview.redd.it": {
+    "hostname": "preview.redd.it",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ptr.thesun.co.uk": {
+    "hostname": "ptr.thesun.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rr8---sn-vg5obxn25po-cjo6.googlevideo.com": {
+    "hostname": "rr8---sn-vg5obxn25po-cjo6.googlevideo.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.wikia.nocookie.net": {
+    "hostname": "script.wikia.nocookie.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scripts.dailymail.co.uk": {
+    "hostname": "scripts.dailymail.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "services.fandom.com": {
+    "hostname": "services.fandom.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sourcepoint.theguardian.com": {
+    "hostname": "sourcepoint.theguardian.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stackoverflow.com": {
+    "hostname": "stackoverflow.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.sstatic.net",
+      "ajax.googleapis.com",
+      "www.gravatar.com",
+      "i.sstatic.net",
+      "platform-lookaside.fbsbx.com",
+      "accounts.google.com"
+    ]
+  },
+  "static-cdn.spot.im": {
+    "hostname": "static-cdn.spot.im",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.guim.co.uk": {
+    "hostname": "static.guim.co.uk",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.licdn.com": {
+    "hostname": "static.licdn.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.wikia.nocookie.net": {
+    "hostname": "static.wikia.nocookie.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "styles.redditmedia.com": {
+    "hostname": "styles.redditmedia.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "timesofindia.indiatimes.com": {
+    "hostname": "timesofindia.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "upload.wikimedia.org": {
+    "hostname": "upload.wikimedia.org",
+    "firstPartyHostnames": [
+      "en.wikipedia.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "v.redd.it": {
+    "hostname": "v.redd.it",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "videosdigitals.uab.cat": {
+    "hostname": "videosdigitals.uab.cat",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "web-sandbox.oaiusercontent.com": {
+    "hostname": "web-sandbox.oaiusercontent.com",
+    "firstPartyHostnames": [
+      "chatgpt.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.amazon.com": {
+    "hostname": "www.amazon.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "images-na.ssl-images-amazon.com",
+      "m.media-amazon.com"
+    ]
+  },
+  "www.dailymail.co.uk": {
+    "hostname": "www.dailymail.co.uk",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "i.dailymail.co.uk",
+      "scripts.dailymail.co.uk",
+      "fonts.googleapis.com",
+      "fonts.gstatic.com",
+      "hulkprod.anm.co.uk",
+      "cmp.dmgmediaprivacy.co.uk",
+      "launcher.spot.im",
+      "static-cdn.spot.im"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.fandom.com": {
+    "hostname": "www.fandom.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "www.reddit.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.gstatic.com",
+      "fonts.gstatic.com"
+    ]
+  },
+  "www.gravatar.com": {
+    "hostname": "www.gravatar.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "consent.youtube.com",
+      "www.youtube.com",
+      "www.reddit.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.instagram.com": {
+    "hostname": "www.instagram.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.linkedin.com": {
+    "hostname": "www.linkedin.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.reddit.com": {
+    "hostname": "www.reddit.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.redditstatic.com",
+      "emoji.redditmedia.com",
+      "external-preview.redd.it",
+      "preview.redd.it",
+      "styles.redditmedia.com",
+      "b.thumbs.redditmedia.com",
+      "www.google.com",
+      "accounts.google.com",
+      "www.gstatic.com",
+      "fonts.gstatic.com",
+      "i.redd.it",
+      "v.redd.it",
+      "a.thumbs.redditmedia.com"
+    ]
+  },
+  "www.redditstatic.com": {
+    "hostname": "www.redditstatic.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.theguardian.com": {
+    "hostname": "www.theguardian.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.guim.co.uk",
+      "i.guim.co.uk",
+      "sourcepoint.theguardian.com",
+      "contributions.guardianapis.com",
+      "static.guim.co.uk"
+    ]
+  },
+  "www.thesun.co.uk": {
+    "hostname": "www.thesun.co.uk",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "players.brightcove.net",
+      "ptr.thesun.co.uk"
+    ]
+  },
+  "www.uab.cat": {
+    "hostname": "www.uab.cat",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "code.jquery.com",
+      "videosdigitals.uab.cat"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "firstPartyHostnames": [
+      "consent.youtube.com",
+      "minecraft.fandom.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "accounts.google.com",
+      "www.gstatic.com",
+      "fonts.gstatic.com",
+      "fonts.googleapis.com",
+      "i.ytimg.com",
+      "i9.ytimg.com"
+    ]
+  },
+  "yt3.ggpht.com": {
+    "hostname": "yt3.ggpht.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}

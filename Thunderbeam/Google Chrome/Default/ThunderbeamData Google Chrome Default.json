@@ -1,0 +1,5778 @@
+{
+  "02179919.akstat.io": {
+    "hostname": "02179919.akstat.io",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "0aedd9fe162dc53aa700c066f9740249.safeframe.googlesyndication.com": {
+    "hostname": "0aedd9fe162dc53aa700c066f9740249.safeframe.googlesyndication.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "45f18f6433fde7e09663e1456096652e.safeframe.googlesyndication.com": {
+    "hostname": "45f18f6433fde7e09663e1456096652e.safeframe.googlesyndication.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "5f42864d-a421-4f37-9478-00266f871d68.edge.permutive.app": {
+    "hostname": "5f42864d-a421-4f37-9478-00266f871d68.edge.permutive.app",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "6097280.global.siteimproveanalytics.io": {
+    "hostname": "6097280.global.siteimproveanalytics.io",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "6109f7a780853bca51ed06976e93fa12.safeframe.googlesyndication.com": {
+    "hostname": "6109f7a780853bca51ed06976e93fa12.safeframe.googlesyndication.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "67bcb14cf8f6724cdf83816de272a76d.safeframe.googlesyndication.com": {
+    "hostname": "67bcb14cf8f6724cdf83816de272a76d.safeframe.googlesyndication.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "684dd32d.akstat.io": {
+    "hostname": "684dd32d.akstat.io",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "88a66e5c-8fe8-48af-9c6c-3ec3f4983aad.prmutv.co": {
+    "hostname": "88a66e5c-8fe8-48af-9c6c-3ec3f4983aad.prmutv.co",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.ad.gt": {
+    "hostname": "a.ad.gt",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.teads.tv": {
+    "hostname": "a.teads.tv",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.thumbs.redditmedia.com": {
+    "hostname": "a.thumbs.redditmedia.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.tribalfusion.com": {
+    "hostname": "a.tribalfusion.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a.vdo.ai": {
+    "hostname": "a.vdo.ai",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a15853140465.cdn-pci.optimizely.com": {
+    "hostname": "a15853140465.cdn-pci.optimizely.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a3187.casalemedia.com": {
+    "hostname": "a3187.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a4341.casalemedia.com": {
+    "hostname": "a4341.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a4380.casalemedia.com": {
+    "hostname": "a4380.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a4434.casalemedia.com": {
+    "hostname": "a4434.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a4470.casalemedia.com": {
+    "hostname": "a4470.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a4516.casalemedia.com": {
+    "hostname": "a4516.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a5044.casalemedia.com": {
+    "hostname": "a5044.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a5120.casalemedia.com": {
+    "hostname": "a5120.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a5292.casalemedia.com": {
+    "hostname": "a5292.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "a85a08488fc0d28e4e410794e768892c.safeframe.googlesyndication.com": {
+    "hostname": "a85a08488fc0d28e4e410794e768892c.safeframe.googlesyndication.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aa.agkn.com": {
+    "hostname": "aa.agkn.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aam.a47b.com": {
+    "hostname": "aam.a47b.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aax-eu.amazon-adsystem.com": {
+    "hostname": "aax-eu.amazon-adsystem.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aax.amazon-adsystem.com": {
+    "hostname": "aax.amazon-adsystem.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ab.chatgpt.com": {
+    "hostname": "ab.chatgpt.com",
+    "firstPartyHostnames": [
+      "chatgpt.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "accounts.google.com": {
+    "hostname": "accounts.google.com",
+    "firstPartyHostnames": [
+      "www.youtube.com",
+      "stackoverflow.com",
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "acdn.adnxs.com": {
+    "hostname": "acdn.adnxs.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad-delivery.net": {
+    "hostname": "ad-delivery.net",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.360yield.com": {
+    "hostname": "ad.360yield.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.doubleclick.net": {
+    "hostname": "ad.doubleclick.net",
+    "firstPartyHostnames": [
+      "stackoverflow.com",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ad.turn.com": {
+    "hostname": "ad.turn.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ade.clmbtech.com": {
+    "hostname": "ade.clmbtech.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ade.googlesyndication.com": {
+    "hostname": "ade.googlesyndication.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.betweendigital.com": {
+    "hostname": "ads.betweendigital.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.everesttech.net": {
+    "hostname": "ads.everesttech.net",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.pubmatic.com": {
+    "hostname": "ads.pubmatic.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.servenobid.com": {
+    "hostname": "ads.servenobid.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.stickyadstv.com": {
+    "hostname": "ads.stickyadstv.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.thesun.co.uk": {
+    "hostname": "ads.thesun.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.us.e-planning.net": {
+    "hostname": "ads.us.e-planning.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ads.yieldmo.com": {
+    "hostname": "ads.yieldmo.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "adsdk.microsoft.com": {
+    "hostname": "adsdk.microsoft.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "aes.eu-west.3px.axp.amazon-adsystem.com": {
+    "hostname": "aes.eu-west.3px.axp.amazon-adsystem.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ajax.googleapis.com": {
+    "hostname": "ajax.googleapis.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ak.sail-horizon.com": {
+    "hostname": "ak.sail-horizon.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "amplify-imp.outbrain.com": {
+    "hostname": "amplify-imp.outbrain.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ams3-ib.adnxs.com": {
+    "hostname": "ams3-ib.adnxs.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.twitter.com": {
+    "hostname": "analytics.twitter.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analytics.vdo.ai": {
+    "hostname": "analytics.vdo.ai",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "analyticspixel.microsoft.com": {
+    "hostname": "analyticspixel.microsoft.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ap.lijit.com": {
+    "hostname": "ap.lijit.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api-2-0.spot.im": {
+    "hostname": "api-2-0.spot.im",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.bounceexchange.com": {
+    "hostname": "api.bounceexchange.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.growthrx.in": {
+    "hostname": "api.growthrx.in",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.nextgen.guardianapps.co.uk": {
+    "hostname": "api.nextgen.guardianapps.co.uk",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.permutive.com": {
+    "hostname": "api.permutive.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.rlcdn.com": {
+    "hostname": "api.rlcdn.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.saambaa.com": {
+    "hostname": "api.saambaa.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api.sail-personalize.com": {
+    "hostname": "api.sail-personalize.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "api2.amplitude.com": {
+    "hostname": "api2.amplitude.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "applets.ebxcdn.com": {
+    "hostname": "applets.ebxcdn.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "apw.economictimes.indiatimes.com": {
+    "hostname": "apw.economictimes.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ara.paa-reporting-advertising.amazon": {
+    "hostname": "ara.paa-reporting-advertising.amazon",
+    "firstPartyHostnames": [
+      "www.amazon.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ase.clmbtech.com": {
+    "hostname": "ase.clmbtech.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets-jpcust.jwpsrv.com": {
+    "hostname": "assets-jpcust.jwpsrv.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets-tracking.crazyegg.com": {
+    "hostname": "assets-tracking.crazyegg.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.bounceexchange.com": {
+    "hostname": "assets.bounceexchange.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.connatix.com": {
+    "hostname": "assets.connatix.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.guim.co.uk": {
+    "hostname": "assets.guim.co.uk",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "assets.toiimg.com": {
+    "hostname": "assets.toiimg.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "at.teads.tv": {
+    "hostname": "at.teads.tv",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ats.rlcdn.com": {
+    "hostname": "ats.rlcdn.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b.thumbs.redditmedia.com": {
+    "hostname": "b.thumbs.redditmedia.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b1-nldc1.zemanta.com": {
+    "hostname": "b1-nldc1.zemanta.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b1h.zemanta.com": {
+    "hostname": "b1h.zemanta.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b1t-nldc1.zemanta.com": {
+    "hostname": "b1t-nldc1.zemanta.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b6ac14fb6d37ef7b7890ce483725eeb9.safeframe.googlesyndication.com": {
+    "hostname": "b6ac14fb6d37ef7b7890ce483725eeb9.safeframe.googlesyndication.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "b9dyowtr4y6ucpqs2lovqmftz2l2g1734396936.nuid.imrworldwide.com": {
+    "hostname": "b9dyowtr4y6ucpqs2lovqmftz2l2g1734396936.nuid.imrworldwide.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bam.nr-data.net": {
+    "hostname": "bam.nr-data.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bat.bing.com": {
+    "hostname": "bat.bing.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bcp.crwdcntrl.net": {
+    "hostname": "bcp.crwdcntrl.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.taboola.com": {
+    "hostname": "beacon.taboola.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "beacon.wikia-services.com": {
+    "hostname": "beacon.wikia-services.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "benelph.de": {
+    "hostname": "benelph.de",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bh.contextweb.com": {
+    "hostname": "bh.contextweb.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bidder.criteo.com": {
+    "hostname": "bidder.criteo.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bpi.rtactivate.com": {
+    "hostname": "bpi.rtactivate.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "brwsrfrm.com": {
+    "hostname": "brwsrfrm.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "bttrack.com": {
+    "hostname": "bttrack.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.amazon-adsystem.com": {
+    "hostname": "c.amazon-adsystem.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.amazon.com",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.bing.com": {
+    "hostname": "c.bing.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.clarity.ms": {
+    "hostname": "c.clarity.ms",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c.go-mpulse.net": {
+    "hostname": "c.go-mpulse.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c1.adform.net": {
+    "hostname": "c1.adform.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "c21lg-d.media.net": {
+    "hostname": "c21lg-d.media.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cadmus.script.ac": {
+    "hostname": "cadmus.script.ac",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "capi.connatix.com": {
+    "hostname": "capi.connatix.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cd.connatix.com": {
+    "hostname": "cd.connatix.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-gl.imrworldwide.com": {
+    "hostname": "cdn-gl.imrworldwide.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn-ima.33across.com": {
+    "hostname": "cdn-ima.33across.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.acuityplatform.com": {
+    "hostname": "cdn.acuityplatform.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.adnxs.com": {
+    "hostname": "cdn.adnxs.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.adsafeprotected.com": {
+    "hostname": "cdn.adsafeprotected.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.amplitude.com": {
+    "hostname": "cdn.amplitude.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.ampproject.org": {
+    "hostname": "cdn.ampproject.org",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk",
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.brandmetrics.com": {
+    "hostname": "cdn.brandmetrics.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.confiant-integrations.net": {
+    "hostname": "cdn.confiant-integrations.net",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.cookielaw.org": {
+    "hostname": "cdn.cookielaw.org",
+    "firstPartyHostnames": [
+      "stackoverflow.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.doubleverify.com": {
+    "hostname": "cdn.doubleverify.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.fcp.codes": {
+    "hostname": "cdn.fcp.codes",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.hadronid.net": {
+    "hostname": "cdn.hadronid.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.id5-sync.com": {
+    "hostname": "cdn.id5-sync.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.indexww.com": {
+    "hostname": "cdn.indexww.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.jsdelivr.net": {
+    "hostname": "cdn.jsdelivr.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.jwplayer.com": {
+    "hostname": "cdn.jwplayer.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.lijit.com": {
+    "hostname": "cdn.lijit.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.mouseflow.com": {
+    "hostname": "cdn.mouseflow.com",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.oaistatic.com": {
+    "hostname": "cdn.oaistatic.com",
+    "firstPartyHostnames": [
+      "chatgpt.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.onesignal.com": {
+    "hostname": "cdn.onesignal.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.parsely.com": {
+    "hostname": "cdn.parsely.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.permutive.com": {
+    "hostname": "cdn.permutive.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.prod.euid.eu": {
+    "hostname": "cdn.prod.euid.eu",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.prod.uidapi.com": {
+    "hostname": "cdn.prod.uidapi.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.relevant-digital.com": {
+    "hostname": "cdn.relevant-digital.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.saambaa.com": {
+    "hostname": "cdn.saambaa.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.sstatic.net": {
+    "hostname": "cdn.sstatic.net",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cdn.taboola.com": {
+    "hostname": "cdn.taboola.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cds.connatix.com": {
+    "hostname": "cds.connatix.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ce.lijit.com": {
+    "hostname": "ce.lijit.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ced-ns.sascdn.com": {
+    "hostname": "ced-ns.sascdn.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cf-images.eu-west-1.prod.boltdns.net": {
+    "hostname": "cf-images.eu-west-1.prod.boltdns.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "chatgpt.com": {
+    "hostname": "chatgpt.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "cdn.oaistatic.com",
+      "ab.chatgpt.com",
+      "web-sandbox.oaiusercontent.com"
+    ]
+  },
+  "chromewebstore.google.com": {
+    "hostname": "chromewebstore.google.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "cks.connatix.com": {
+    "hostname": "cks.connatix.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "client.aps.amazon-adsystem.com": {
+    "hostname": "client.aps.amazon-adsystem.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cloud-images.s3.eu-west-1.amazonaws.com": {
+    "hostname": "cloud-images.s3.eu-west-1.amazonaws.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.adform.net": {
+    "hostname": "cm.adform.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.adgrx.com": {
+    "hostname": "cm.adgrx.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cm.g.doubleclick.net": {
+    "hostname": "cm.g.doubleclick.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cmp.cdn.thesun.co.uk": {
+    "hostname": "cmp.cdn.thesun.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cmp.dmgmediaprivacy.co.uk": {
+    "hostname": "cmp.dmgmediaprivacy.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cms.quantserve.com": {
+    "hostname": "cms.quantserve.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.createjs.com": {
+    "hostname": "code.createjs.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "code.jquery.com": {
+    "hostname": "code.jquery.com",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "collector.brandmetrics.com": {
+    "hostname": "collector.brandmetrics.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "commercial-analytics-collector.news.co.uk": {
+    "hostname": "commercial-analytics-collector.news.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "config.aps.amazon-adsystem.com": {
+    "hostname": "config.aps.amazon-adsystem.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connatix-d.openx.net": {
+    "hostname": "connatix-d.openx.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connatix-supply-partners.tremorhub.com": {
+    "hostname": "connatix-supply-partners.tremorhub.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connect.facebook.net": {
+    "hostname": "connect.facebook.net",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "connectid.analytics.yahoo.com": {
+    "hostname": "connectid.analytics.yahoo.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent.cookiebot.com": {
+    "hostname": "consent.cookiebot.com",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "consent.youtube.com": {
+    "hostname": "consent.youtube.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.google.com",
+      "www.gstatic.com",
+      "fonts.gstatic.com",
+      "fonts.googleapis.com"
+    ]
+  },
+  "consentcdn.cookiebot.com": {
+    "hostname": "consentcdn.cookiebot.com",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "content.jwplatform.com": {
+    "hostname": "content.jwplatform.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "content.quantcount.com": {
+    "hostname": "content.quantcount.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "contextual.media.net": {
+    "hostname": "contextual.media.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "contributions.guardianapis.com": {
+    "hostname": "contributions.guardianapis.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cookies.nextmillmedia.com": {
+    "hostname": "cookies.nextmillmedia.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "core.iprom.net": {
+    "hostname": "core.iprom.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "crb.kargo.com": {
+    "hostname": "crb.kargo.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "crta.dailymail.co.uk": {
+    "hostname": "crta.dailymail.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cs-server-s2s.yellowblue.io": {
+    "hostname": "cs-server-s2s.yellowblue.io",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cs-tam.yellowblue.io": {
+    "hostname": "cs-tam.yellowblue.io",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cs.media.net": {
+    "hostname": "cs.media.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cs.mobfox.com": {
+    "hostname": "cs.mobfox.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cs.seedtag.com": {
+    "hostname": "cs.seedtag.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "cs.yellowblue.io": {
+    "hostname": "cs.yellowblue.io",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csi.gstatic.com": {
+    "hostname": "csi.gstatic.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csm.fr3.eu.criteo.net": {
+    "hostname": "csm.fr3.eu.criteo.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "csync.smartadserver.com": {
+    "hostname": "csync.smartadserver.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d.adroll.com": {
+    "hostname": "d.adroll.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d5p.de17a.com": {
+    "hostname": "d5p.de17a.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "d6691a17-6fdb-4d26-85d6-b3dd27f55f08.prmutv.co": {
+    "hostname": "d6691a17-6fdb-4d26-85d6-b3dd27f55f08.prmutv.co",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "da38188441bc4c431239a3f7cf3d620b.safeframe.googlesyndication.com": {
+    "hostname": "da38188441bc4c431239a3f7cf3d620b.safeframe.googlesyndication.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "data.adsrvr.org": {
+    "hostname": "data.adsrvr.org",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "data.cdnbasket.net": {
+    "hostname": "data.cdnbasket.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dco-assets.everestads.net": {
+    "hostname": "dco-assets.everestads.net",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dev.fandom.com": {
+    "hostname": "dev.fandom.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "direct-events-collector.spot.im": {
+    "hostname": "direct-events-collector.spot.im",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "direct.adsrvr.org": {
+    "hostname": "direct.adsrvr.org",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dis.criteo.com": {
+    "hostname": "dis.criteo.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dmp.adform.net": {
+    "hostname": "dmp.adform.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "docs.python.org": {
+    "hostname": "docs.python.org",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "plausible.io"
+    ]
+  },
+  "dplayer.lngtd.com": {
+    "hostname": "dplayer.lngtd.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dpm.demdex.net": {
+    "hostname": "dpm.demdex.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsp-cookie.adfarm1.adition.com": {
+    "hostname": "dsp-cookie.adfarm1.adition.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsp.360yield.com": {
+    "hostname": "dsp.360yield.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsum-sec.casalemedia.com": {
+    "hostname": "dsum-sec.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dsum.casalemedia.com": {
+    "hostname": "dsum.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dt.adsafeprotected.com": {
+    "hostname": "dt.adsafeprotected.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dtech.adtimizer.co": {
+    "hostname": "dtech.adtimizer.co",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "dynamic.criteo.com": {
+    "hostname": "dynamic.criteo.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eb2.3lift.com": {
+    "hostname": "eb2.3lift.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "economictimes.indiatimes.com": {
+    "hostname": "economictimes.indiatimes.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.toiimg.com",
+      "cdn.cookielaw.org",
+      "img.etimg.com",
+      "c.amazon-adsystem.com",
+      "c.go-mpulse.net",
+      "www.google-analytics.com",
+      "securepubads.g.doubleclick.net",
+      "timesofindia.indiatimes.com",
+      "dynamic.criteo.com",
+      "static.growthrx.in",
+      "stats.g.doubleclick.net",
+      "apw.economictimes.indiatimes.com",
+      "gum.criteo.com",
+      "www.googletagmanager.com",
+      "geolocation.onetrust.com",
+      "api.growthrx.in",
+      "fundingchoicesmessages.google.com",
+      "connect.facebook.net",
+      "etx.indiatimes.com",
+      "static.clmbtech.com",
+      "static.ads-twitter.com",
+      "snap.licdn.com",
+      "www.artfut.com",
+      "bat.bing.com",
+      "offers.indiatimes.com",
+      "jsso.indiatimes.com",
+      "t.co",
+      "www.google.com",
+      "analytics.twitter.com",
+      "pagead2.googlesyndication.com",
+      "a.vdo.ai",
+      "www.google.es",
+      "region1.analytics.google.com",
+      "subscriptions.economictimes.indiatimes.com",
+      "survey.survicate.com",
+      "id.hadron.ad.gt",
+      "match.adsrvr.org",
+      "id.crwdcntrl.net",
+      "px.ads.linkedin.com",
+      "www.facebook.com",
+      "config.aps.amazon-adsystem.com",
+      "aax.amazon-adsystem.com",
+      "region1.google-analytics.com",
+      "platform.twitter.com",
+      "targeting.vdo.ai",
+      "etonboard.economictimes.indiatimes.com",
+      "analytics.vdo.ai",
+      "cdn.taboola.com",
+      "surveys-static-prd.survicate-cdn.com",
+      "www.clarity.ms",
+      "syndication.twitter.com",
+      "widget.as.criteo.com",
+      "fastlane.rubiconproject.com",
+      "hbopenbid.pubmatic.com",
+      "a.teads.tv",
+      "ib.adnxs-simple.com",
+      "prebid.media.net",
+      "direct.adsrvr.org",
+      "measurement-api.criteo.com",
+      "fledge.as.criteo.com",
+      "www.youtube.com",
+      "imasdk.googleapis.com",
+      "pm-widget.taboola.com",
+      "beacon.taboola.com",
+      "navvy.media.net",
+      "trc.taboola.com",
+      "googleads.g.doubleclick.net",
+      "td.doubleclick.net",
+      "static.criteo.net",
+      "privacyportal-in.onetrust.com",
+      "invstatic101.creativecdn.com",
+      "tags.crwdcntrl.net",
+      "oa.openxcdn.net",
+      "cdn-ima.33across.com",
+      "da38188441bc4c431239a3f7cf3d620b.safeframe.googlesyndication.com",
+      "x.clarity.ms",
+      "h5.vdo.ai",
+      "fonts.gstatic.com",
+      "eus.rubiconproject.com",
+      "ads.pubmatic.com",
+      "oajs.openx.net",
+      "token.rubiconproject.com",
+      "bcp.crwdcntrl.net",
+      "esp.rtbhouse.com",
+      "tags.expo9.exponential.com",
+      "tpc.googlesyndication.com",
+      "cdn.ampproject.org",
+      "fonts.googleapis.com",
+      "www.gstatic.com",
+      "www.googleadservices.com",
+      "secure.cdn.fastclick.net",
+      "cdn.saambaa.com",
+      "cdn.id5-sync.com",
+      "il-trc-events.taboola.com",
+      "google-bidout-d.openx.net",
+      "s.tribalfusion.com",
+      "cm.g.doubleclick.net",
+      "csi.gstatic.com",
+      "x.bidswitch.net",
+      "aax-eu.amazon-adsystem.com",
+      "bh.contextweb.com",
+      "www.googletagservices.com",
+      "s.ad.smaato.net",
+      "public-prod-dspcookiematching.dmxleo.com",
+      "pubads.g.doubleclick.net",
+      "image6.pubmatic.com",
+      "us-u.openx.net",
+      "ups.analytics.yahoo.com",
+      "pixel.rubiconproject.com",
+      "a.tribalfusion.com",
+      "csm.fr3.eu.criteo.net",
+      "cdn.jsdelivr.net",
+      "api.saambaa.com",
+      "id5-sync.com",
+      "lb.eu-1-id5-sync.com",
+      "secure.quantserve.com",
+      "cdn.lijit.com",
+      "rules.quantcount.com",
+      "saambaa.com",
+      "saambaa-static.azureedge.net",
+      "pixel.quantserve.com",
+      "45f18f6433fde7e09663e1456096652e.safeframe.googlesyndication.com",
+      "ep1.adtrafficquality.google",
+      "ep2.adtrafficquality.google",
+      "ce.lijit.com",
+      "ssbsync.smartadserver.com",
+      "rtb.openx.net",
+      "pr-bh.ybp.yahoo.com",
+      "eu-u.openx.net",
+      "c.clarity.ms",
+      "02179919.akstat.io",
+      "s0.2mdn.net",
+      "eu-west-1.event.prod.bidr.io",
+      "noas.mtrtb.com",
+      "match.prod.bidr.io",
+      "data.adsrvr.org",
+      "cloud-images.s3.eu-west-1.amazonaws.com",
+      "um.simpli.fi",
+      "se.semasio.net",
+      "ums.acuityplatform.com",
+      "dtech.adtimizer.co",
+      "script.4dex.io",
+      "mp.4dex.io",
+      "cadmus.script.ac",
+      "report2.hb.brainlyads.com",
+      "pbs.nextmillmedia.com",
+      "ase.clmbtech.com",
+      "rtbcdn.andbeyond.media",
+      "s.lucead.com",
+      "p.adlooxtracking.com",
+      "rtbdemand.apiip.net",
+      "cookies.nextmillmedia.com",
+      "rtbpass.andbeyond.media",
+      "ade.clmbtech.com"
+    ]
+  },
+  "edge-assets.wirewax.com": {
+    "hostname": "edge-assets.wirewax.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "edge-player.wirewax.com": {
+    "hostname": "edge-player.wirewax.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "edge-player5.wirewax.com": {
+    "hostname": "edge-player5.wirewax.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "edge.api.brightcove.com": {
+    "hostname": "edge.api.brightcove.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "elb.the-ozone-project.com": {
+    "hostname": "elb.the-ozone-project.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "emoji.redditmedia.com": {
+    "hostname": "emoji.redditmedia.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "en.wikipedia.org": {
+    "hostname": "en.wikipedia.org",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "upload.wikimedia.org",
+      "login.wikimedia.org"
+    ]
+  },
+  "entitlements.jwplayer.com": {
+    "hostname": "entitlements.jwplayer.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ep1.adtrafficquality.google": {
+    "hostname": "ep1.adtrafficquality.google",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ep2.adtrafficquality.google": {
+    "hostname": "ep2.adtrafficquality.google",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "esp.rtbhouse.com": {
+    "hostname": "esp.rtbhouse.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ethicalads.blob.core.windows.net": {
+    "hostname": "ethicalads.blob.core.windows.net",
+    "firstPartyHostnames": [
+      "numpydoc.readthedocs.io"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "etonboard.economictimes.indiatimes.com": {
+    "hostname": "etonboard.economictimes.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "etx.indiatimes.com": {
+    "hostname": "etx.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eu-google-rtb.quantserve.com": {
+    "hostname": "eu-google-rtb.quantserve.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eu-u.openx.net": {
+    "hostname": "eu-u.openx.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eu-west-1.event.prod.bidr.io": {
+    "hostname": "eu-west-1.event.prod.bidr.io",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "eus.rubiconproject.com": {
+    "hostname": "eus.rubiconproject.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "events.bouncex.net": {
+    "hostname": "events.bouncex.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "exch.quantcount.com": {
+    "hostname": "exch.quantcount.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "external-preview.redd.it": {
+    "hostname": "external-preview.redd.it",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fastlane.rubiconproject.com": {
+    "hostname": "fastlane.rubiconproject.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fcp-api.footballco.cloud": {
+    "hostname": "fcp-api.footballco.cloud",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fcp.codes": {
+    "hostname": "fcp.codes",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fgp-data-eu.s3.amazonaws.com": {
+    "hostname": "fgp-data-eu.s3.amazonaws.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fledge.as.criteo.com": {
+    "hostname": "fledge.as.criteo.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.googleapis.com": {
+    "hostname": "fonts.googleapis.com",
+    "firstPartyHostnames": [
+      "consent.youtube.com",
+      "www.youtube.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fonts.gstatic.com": {
+    "hostname": "fonts.gstatic.com",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "consent.youtube.com",
+      "www.youtube.com",
+      "www.reddit.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "footballco-d.openx.net": {
+    "hostname": "footballco-d.openx.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fran.frvr.com": {
+    "hostname": "fran.frvr.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fundingchoicesmessages.google.com": {
+    "hostname": "fundingchoicesmessages.google.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "fw.adsafeprotected.com": {
+    "hostname": "fw.adsafeprotected.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "g2.gumgum.com": {
+    "hostname": "g2.gumgum.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "geo.privacymanager.io": {
+    "hostname": "geo.privacymanager.io",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "geolocation.onetrust.com": {
+    "hostname": "geolocation.onetrust.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "google-bidout-d.openx.net": {
+    "hostname": "google-bidout-d.openx.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "googleads.g.doubleclick.net": {
+    "hostname": "googleads.g.doubleclick.net",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "www.youtube.com",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "grid-bidder.criteo.com": {
+    "hostname": "grid-bidder.criteo.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "gum.criteo.com": {
+    "hostname": "gum.criteo.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "h5.vdo.ai": {
+    "hostname": "h5.vdo.ai",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hb-api.omnitagjs.com": {
+    "hostname": "hb-api.omnitagjs.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hb.trustedstack.com": {
+    "hostname": "hb.trustedstack.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hbopenbid.pubmatic.com": {
+    "hostname": "hbopenbid.pubmatic.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hbx.media.net": {
+    "hostname": "hbx.media.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "house-fastly-signed-eu-west-1-prod.brightcovecdn.com": {
+    "hostname": "house-fastly-signed-eu-west-1-prod.brightcovecdn.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "htlb.casalemedia.com": {
+    "hostname": "htlb.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "hulkprod.anm.co.uk": {
+    "hostname": "hulkprod.anm.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.dailymail.co.uk": {
+    "hostname": "i.dailymail.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.guim.co.uk": {
+    "hostname": "i.guim.co.uk",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.liadm.com": {
+    "hostname": "i.liadm.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.redd.it": {
+    "hostname": "i.redd.it",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.sstatic.net": {
+    "hostname": "i.sstatic.net",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "i.ytimg.com": {
+    "hostname": "i.ytimg.com",
+    "firstPartyHostnames": [
+      "www.youtube.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "iad.anm.co.uk": {
+    "hostname": "iad.anm.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs-simple.com": {
+    "hostname": "ib.adnxs-simple.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ib.adnxs.com": {
+    "hostname": "ib.adnxs.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ice.360yield.com": {
+    "hostname": "ice.360yield.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.crwdcntrl.net": {
+    "hostname": "id.crwdcntrl.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.hadron.ad.gt": {
+    "hostname": "id.hadron.ad.gt",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id.rlcdn.com": {
+    "hostname": "id.rlcdn.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "id5-sync.com": {
+    "hostname": "id5-sync.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ids.cdnwidget.com": {
+    "hostname": "ids.cdnwidget.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "idsync.rlcdn.com": {
+    "hostname": "idsync.rlcdn.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "il-trc-events.taboola.com": {
+    "hostname": "il-trc-events.taboola.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image2.pubmatic.com": {
+    "hostname": "image2.pubmatic.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image4.pubmatic.com": {
+    "hostname": "image4.pubmatic.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image6.pubmatic.com": {
+    "hostname": "image6.pubmatic.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "image8.pubmatic.com": {
+    "hostname": "image8.pubmatic.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images-eu.ssl-images-amazon.com": {
+    "hostname": "images-eu.ssl-images-amazon.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images-na.ssl-images-amazon.com": {
+    "hostname": "images-na.ssl-images-amazon.com",
+    "firstPartyHostnames": [
+      "www.amazon.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "images.outbrainimg.com": {
+    "hostname": "images.outbrainimg.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imasdk.googleapis.com": {
+    "hostname": "imasdk.googleapis.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.connatix.com": {
+    "hostname": "img.connatix.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "img.etimg.com": {
+    "hostname": "img.etimg.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "imgsct.cookiebot.com": {
+    "hostname": "imgsct.cookiebot.com",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "inmobi-match.dotomi.com": {
+    "hostname": "inmobi-match.dotomi.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ins.connatix.com": {
+    "hostname": "ins.connatix.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "interactive.guim.co.uk": {
+    "hostname": "interactive.guim.co.uk",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "inv-nets.admixer.net": {
+    "hostname": "inv-nets.admixer.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "invstatic101.creativecdn.com": {
+    "hostname": "invstatic101.creativecdn.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ipac.ctnsnet.com": {
+    "hostname": "ipac.ctnsnet.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "it.lngtd.com": {
+    "hostname": "it.lngtd.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jadserve.postrelease.com": {
+    "hostname": "jadserve.postrelease.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js-agent.newrelic.com": {
+    "hostname": "js-agent.newrelic.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js-sec.indexww.com": {
+    "hostname": "js-sec.indexww.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "js.outcomes.net": {
+    "hostname": "js.outcomes.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "jsso.indiatimes.com": {
+    "hostname": "jsso.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "k8s1-event-tracker-am.lb.indexww.com": {
+    "hostname": "k8s1-event-tracker-am.lb.indexww.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "k8s1-event-tracker-fr.lb.indexww.com": {
+    "hostname": "k8s1-event-tracker-fr.lb.indexww.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "launcher-sa.spot.im": {
+    "hostname": "launcher-sa.spot.im",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "launcher.spot.im": {
+    "hostname": "launcher.spot.im",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "launchpad-wrapper.privacymanager.io": {
+    "hostname": "launchpad-wrapper.privacymanager.io",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "launchpad.privacymanager.io": {
+    "hostname": "launchpad.privacymanager.io",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lb.eu-1-id5-sync.com": {
+    "hostname": "lb.eu-1-id5-sync.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lg1.hb.trustedstack.com": {
+    "hostname": "lg1.hb.trustedstack.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lit.connatix.com": {
+    "hostname": "lit.connatix.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "live.primis.tech": {
+    "hostname": "live.primis.tech",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "lngtd.com": {
+    "hostname": "lngtd.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "load77.exelator.com": {
+    "hostname": "load77.exelator.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "loadus.exelator.com": {
+    "hostname": "loadus.exelator.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "log.outbrainimg.com": {
+    "hostname": "log.outbrainimg.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "login.wikimedia.org": {
+    "hostname": "login.wikimedia.org",
+    "firstPartyHostnames": [
+      "en.wikipedia.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "logx.optimizely.com": {
+    "hostname": "logx.optimizely.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "m.media-amazon.com": {
+    "hostname": "m.media-amazon.com",
+    "firstPartyHostnames": [
+      "www.amazon.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mailonline-uk-d.openx.net": {
+    "hostname": "mailonline-uk-d.openx.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "manifest.prod.boltdns.net": {
+    "hostname": "manifest.prod.boltdns.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "marketingplatform.google.com": {
+    "hostname": "marketingplatform.google.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.adsrvr.org": {
+    "hostname": "match.adsrvr.org",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.deepintent.com": {
+    "hostname": "match.deepintent.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.prod.bidr.io": {
+    "hostname": "match.prod.bidr.io",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "match.sharethrough.com": {
+    "hostname": "match.sharethrough.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mcdp-nldc1.outbrain.com": {
+    "hostname": "mcdp-nldc1.outbrain.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "measurement-api.criteo.com": {
+    "hostname": "measurement-api.criteo.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "media.ethicalads.io": {
+    "hostname": "media.ethicalads.io",
+    "firstPartyHostnames": [
+      "numpydoc.readthedocs.io"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "metrics.brightcove.com": {
+    "hostname": "metrics.brightcove.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mgmotors.solution.weborama.fr": {
+    "hostname": "mgmotors.solution.weborama.fr",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "minecraft.fandom.com": {
+    "hostname": "minecraft.fandom.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "static.wikia.nocookie.net",
+      "cdn.cookielaw.org",
+      "www.fastly-insights.com",
+      "services.fandom.com",
+      "script.wikia.nocookie.net",
+      "cdn.jwplayer.com",
+      "beacon.wikia-services.com",
+      "geolocation.onetrust.com",
+      "content.jwplatform.com",
+      "dev.fandom.com",
+      "ssl.p.jwpcdn.com",
+      "imasdk.googleapis.com",
+      "entitlements.jwplayer.com",
+      "assets-jpcust.jwpsrv.com",
+      "edge-player.wirewax.com",
+      "videos-cloudfront-usp.jwpsrv.com",
+      "securepubads.g.doubleclick.net",
+      "pagead2.googlesyndication.com",
+      "s0.2mdn.net",
+      "www.fandom.com",
+      "edge-assets.wirewax.com",
+      "www.googletagmanager.com",
+      "secure.quantserve.com",
+      "rules.quantcount.com",
+      "cdn.jsdelivr.net",
+      "script.crazyegg.com",
+      "pixel.quantserve.com",
+      "cdn.amplitude.com",
+      "sb.scorecardresearch.com",
+      "api2.amplitude.com",
+      "assets-tracking.crazyegg.com",
+      "pagestates-tracking.crazyegg.com",
+      "prd.jwpltx.com",
+      "tracking.crazyegg.com",
+      "edge-player5.wirewax.com",
+      "seg.ad.gt",
+      "c.amazon-adsystem.com",
+      "a.ad.gt",
+      "cdn.adsafeprotected.com",
+      "pub.doubleverify.com",
+      "cdn-gl.imrworldwide.com",
+      "prebid-server.rubiconproject.com",
+      "ib.adnxs.com",
+      "rtb.openx.net",
+      "htlb.casalemedia.com",
+      "prebid.media.net",
+      "fastlane.rubiconproject.com",
+      "hbopenbid.pubmatic.com",
+      "config.aps.amazon-adsystem.com",
+      "webads-pbs.relevant-digital.com",
+      "s.seedtag.com",
+      "tlx.3lift.com",
+      "ads.servenobid.com",
+      "tags.crwdcntrl.net",
+      "cdn.hadronid.net",
+      "secure.cdn.fastclick.net",
+      "pixel.adsafeprotected.com",
+      "launchpad-wrapper.privacymanager.io",
+      "aax.amazon-adsystem.com",
+      "fundingchoicesmessages.google.com",
+      "ssum-sec.casalemedia.com",
+      "dpm.demdex.net",
+      "sync-tm.everesttech.net",
+      "d.adroll.com",
+      "dsum-sec.casalemedia.com",
+      "aax-eu.amazon-adsystem.com",
+      "marketingplatform.google.com",
+      "launchpad.privacymanager.io",
+      "bcp.crwdcntrl.net",
+      "sqs.us-east-1.amazonaws.com",
+      "rtb.gumgum.com",
+      "sync-amz.ads.yieldmo.com",
+      "crb.kargo.com",
+      "cm.g.doubleclick.net",
+      "cs-tam.yellowblue.io",
+      "ms-cookie-sync.presage.io",
+      "ce.lijit.com",
+      "onetag-sys.com",
+      "eus.rubiconproject.com",
+      "sync.inmobi.com",
+      "ssp-sync.criteo.com",
+      "ssbsync.smartadserver.com",
+      "match.deepintent.com",
+      "ads.pubmatic.com",
+      "um.simpli.fi",
+      "s.amazon-adsystem.com",
+      "cs.yellowblue.io",
+      "token.rubiconproject.com",
+      "contextual.media.net",
+      "x.bidswitch.net",
+      "rtb.mfadsrvr.com",
+      "s.ad.smaato.net",
+      "usersync.gumgum.com",
+      "fran.frvr.com",
+      "oa.openxcdn.net",
+      "cdn.prod.euid.eu",
+      "b6ac14fb6d37ef7b7890ce483725eeb9.safeframe.googlesyndication.com",
+      "geo.privacymanager.io",
+      "sync.e-volution.ai",
+      "ssc-cms.33across.com",
+      "eb2.3lift.com",
+      "acdn.adnxs.com",
+      "ads.yieldmo.com",
+      "public.servenobid.com",
+      "pixel.rubiconproject.com",
+      "js-sec.indexww.com",
+      "wikia-d.openx.net",
+      "sync-openx.ads.yieldmo.com",
+      "g2.gumgum.com",
+      "id.rlcdn.com",
+      "ep2.adtrafficquality.google",
+      "www.google.com",
+      "cdn.relevant-digital.com",
+      "hb.trustedstack.com",
+      "px.ads.linkedin.com",
+      "cs.seedtag.com",
+      "rtb-csync.smartadserver.com",
+      "match.sharethrough.com",
+      "capi.connatix.com",
+      "cdn.ampproject.org",
+      "sync.teads.tv",
+      "u.openx.net",
+      "b9dyowtr4y6ucpqs2lovqmftz2l2g1734396936.nuid.imrworldwide.com",
+      "pr-bh.ybp.yahoo.com",
+      "secure-dcr.imrworldwide.com",
+      "invstatic101.creativecdn.com",
+      "static.criteo.net",
+      "oajs.openx.net",
+      "cs-server-s2s.yellowblue.io",
+      "cdn.prod.uidapi.com",
+      "i.liadm.com",
+      "ums.acuityplatform.com",
+      "sync.1rx.io",
+      "match.adsrvr.org",
+      "cs.mobfox.com",
+      "rtb.adentifi.com",
+      "cm.adgrx.com",
+      "inmobi-match.dotomi.com",
+      "us-u.openx.net",
+      "match.prod.bidr.io",
+      "gum.criteo.com",
+      "hbx.media.net",
+      "sync.richaudience.com",
+      "csync.smartadserver.com",
+      "visitor.omnitagjs.com",
+      "live.primis.tech",
+      "odr.mookie1.com",
+      "ced-ns.sascdn.com",
+      "lg1.hb.trustedstack.com",
+      "dsp.360yield.com",
+      "c21lg-d.media.net",
+      "sync.go.sonobi.com",
+      "cdn.indexww.com",
+      "fonts.googleapis.com",
+      "ads.us.e-planning.net",
+      "eu-u.openx.net",
+      "connectid.analytics.yahoo.com",
+      "cdn-ima.33across.com",
+      "load77.exelator.com",
+      "ssp.disqus.com",
+      "cm.adform.net",
+      "ad.360yield.com",
+      "cs.media.net",
+      "player.aniview.com",
+      "idsync.rlcdn.com",
+      "wt.rqtrk.eu",
+      "dis.criteo.com",
+      "ups.analytics.yahoo.com",
+      "openx-ums.acuityplatform.com",
+      "sync.adkernel.com",
+      "us.ck-ie.com",
+      "dsum.casalemedia.com",
+      "sync.admanmedia.com",
+      "api-2-0.spot.im",
+      "sync.aniview.com",
+      "s.e-planning.net",
+      "cdn.id5-sync.com",
+      "google-bidout-d.openx.net",
+      "esp.rtbhouse.com",
+      "prebid-match.dotomi.com",
+      "spl.zeotap.com",
+      "tpc.googlesyndication.com",
+      "bttrack.com",
+      "image8.pubmatic.com",
+      "u-ams03.e-planning.net",
+      "sync.e-planning.net",
+      "inv-nets.admixer.net",
+      "dmp.adform.net",
+      "trc.taboola.com",
+      "image6.pubmatic.com",
+      "launcher-sa.spot.im",
+      "jadserve.postrelease.com",
+      "mwzeom.zeotap.com",
+      "id5-sync.com",
+      "fonts.gstatic.com",
+      "static-cdn.spot.im",
+      "publisher-assets.spot.im",
+      "www.googleadservices.com",
+      "cms.quantserve.com",
+      "direct-events-collector.spot.im",
+      "ep1.adtrafficquality.google",
+      "pix.spot.im",
+      "rumcdn.geoedge.be"
+    ]
+  },
+  "mp.4dex.io": {
+    "hostname": "mp.4dex.io",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ms-cookie-sync.presage.io": {
+    "hostname": "ms-cookie-sync.presage.io",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mv.outbrain.com": {
+    "hostname": "mv.outbrain.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "mwzeom.zeotap.com": {
+    "hostname": "mwzeom.zeotap.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "navvy.media.net": {
+    "hostname": "navvy.media.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "newskit.newsapis.co.uk": {
+    "hostname": "newskit.newsapis.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nid.thesun.co.uk": {
+    "hostname": "nid.thesun.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "noas.mtrtb.com": {
+    "hostname": "noas.mtrtb.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "nuk-widgets.fanhubmedia.com": {
+    "hostname": "nuk-widgets.fanhubmedia.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "numpydoc.readthedocs.io": {
+    "hostname": "numpydoc.readthedocs.io",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "media.ethicalads.io",
+      "server.ethicalads.io",
+      "ethicalads.blob.core.windows.net"
+    ]
+  },
+  "oa.openxcdn.net": {
+    "hostname": "oa.openxcdn.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "oajs.openx.net": {
+    "hostname": "oajs.openx.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "odr.mookie1.com": {
+    "hostname": "odr.mookie1.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "offers.indiatimes.com": {
+    "hostname": "offers.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "onesignal.com": {
+    "hostname": "onesignal.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "onetag-sys.com": {
+    "hostname": "onetag-sys.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "openx-ums.acuityplatform.com": {
+    "hostname": "openx-ums.acuityplatform.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ophan.theguardian.com": {
+    "hostname": "ophan.theguardian.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "origin.acuityplatform.com": {
+    "hostname": "origin.acuityplatform.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ovp.iris.tv": {
+    "hostname": "ovp.iris.tv",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p.adlooxtracking.com": {
+    "hostname": "p.adlooxtracking.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "p1.parsely.com": {
+    "hostname": "p1.parsely.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pa.openx.net": {
+    "hostname": "pa.openx.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pac.thesun.co.uk": {
+    "hostname": "pac.thesun.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "page.cdnbasket.net": {
+    "hostname": "page.cdnbasket.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagead2.googlesyndication.com": {
+    "hostname": "pagead2.googlesyndication.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "economictimes.indiatimes.com",
+      "www.theguardian.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pagestates-tracking.crazyegg.com": {
+    "hostname": "pagestates-tracking.crazyegg.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs-cs.yellowblue.io": {
+    "hostname": "pbs-cs.yellowblue.io",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.nextmillmedia.com": {
+    "hostname": "pbs.nextmillmedia.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pbs.yahoo.com": {
+    "hostname": "pbs.yahoo.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "performance-events.guardianapis.com": {
+    "hostname": "performance-events.guardianapis.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pix.spot.im": {
+    "hostname": "pix.spot.im",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel-sync.sitescout.com": {
+    "hostname": "pixel-sync.sitescout.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.33across.com": {
+    "hostname": "pixel.33across.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.adsafeprotected.com": {
+    "hostname": "pixel.adsafeprotected.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.onaudience.com": {
+    "hostname": "pixel.onaudience.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantcount.com": {
+    "hostname": "pixel.quantcount.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.quantserve.com": {
+    "hostname": "pixel.quantserve.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.rubiconproject.com": {
+    "hostname": "pixel.rubiconproject.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pixel.tapad.com": {
+    "hostname": "pixel.tapad.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform-lookaside.fbsbx.com": {
+    "hostname": "platform-lookaside.fbsbx.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "platform.twitter.com": {
+    "hostname": "platform.twitter.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "plausible.io": {
+    "hostname": "plausible.io",
+    "firstPartyHostnames": [
+      "docs.python.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "player.aniview.com": {
+    "hostname": "player.aniview.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "players.brightcove.net": {
+    "hostname": "players.brightcove.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pm-widget.taboola.com": {
+    "hostname": "pm-widget.taboola.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pr-bh.ybp.yahoo.com": {
+    "hostname": "pr-bh.ybp.yahoo.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prd.jwpltx.com": {
+    "hostname": "prd.jwpltx.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prebid-match.dotomi.com": {
+    "hostname": "prebid-match.dotomi.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prebid-server.rubiconproject.com": {
+    "hostname": "prebid-server.rubiconproject.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prebid.a-mo.net": {
+    "hostname": "prebid.a-mo.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prebid.adnxs.com": {
+    "hostname": "prebid.adnxs.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prebid.media.net": {
+    "hostname": "prebid.media.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "preview.redd.it": {
+    "hostname": "preview.redd.it",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "prg.smartadserver.com": {
+    "hostname": "prg.smartadserver.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "privacyportal-in.onetrust.com": {
+    "hostname": "privacyportal-in.onetrust.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ps.eyeota.net": {
+    "hostname": "ps.eyeota.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ptr.thesun.co.uk": {
+    "hostname": "ptr.thesun.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pub.doubleverify.com": {
+    "hostname": "pub.doubleverify.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pubads.g.doubleclick.net": {
+    "hostname": "pubads.g.doubleclick.net",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "public-prod-dspcookiematching.dmxleo.com": {
+    "hostname": "public-prod-dspcookiematching.dmxleo.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "public.servenobid.com": {
+    "hostname": "public.servenobid.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "publisher-assets.spot.im": {
+    "hostname": "publisher-assets.spot.im",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "px.ads.linkedin.com": {
+    "hostname": "px.ads.linkedin.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "pxl.iqm.com": {
+    "hostname": "pxl.iqm.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "r.casalemedia.com": {
+    "hostname": "r.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "region1.analytics.google.com": {
+    "hostname": "region1.analytics.google.com",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "region1.google-analytics.com": {
+    "hostname": "region1.google-analytics.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "report2.hb.brainlyads.com": {
+    "hostname": "report2.hb.brainlyads.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rm-script.dotmetrics.net": {
+    "hostname": "rm-script.dotmetrics.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb-csync.smartadserver.com": {
+    "hostname": "rtb-csync.smartadserver.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb.adentifi.com": {
+    "hostname": "rtb.adentifi.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb.gumgum.com": {
+    "hostname": "rtb.gumgum.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb.mfadsrvr.com": {
+    "hostname": "rtb.mfadsrvr.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb.openx.net": {
+    "hostname": "rtb.openx.net",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtb0.doubleverify.com": {
+    "hostname": "rtb0.doubleverify.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtbc-ew1.doubleverify.com": {
+    "hostname": "rtbc-ew1.doubleverify.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtbcdn.andbeyond.media": {
+    "hostname": "rtbcdn.andbeyond.media",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtbdemand.apiip.net": {
+    "hostname": "rtbdemand.apiip.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rtbpass.andbeyond.media": {
+    "hostname": "rtbpass.andbeyond.media",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rules.quantcount.com": {
+    "hostname": "rules.quantcount.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "rumcdn.geoedge.be": {
+    "hostname": "rumcdn.geoedge.be",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.ad.smaato.net": {
+    "hostname": "s.ad.smaato.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.amazon-adsystem.com": {
+    "hostname": "s.amazon-adsystem.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.amazon.com",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.e-planning.net": {
+    "hostname": "s.e-planning.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.go-mpulse.net": {
+    "hostname": "s.go-mpulse.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.lngtdv.com": {
+    "hostname": "s.lngtdv.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.lucead.com": {
+    "hostname": "s.lucead.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.seedtag.com": {
+    "hostname": "s.seedtag.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s.tribalfusion.com": {
+    "hostname": "s.tribalfusion.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s0.2mdn.net": {
+    "hostname": "s0.2mdn.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "s1.adform.net": {
+    "hostname": "s1.adform.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "saambaa-static.azureedge.net": {
+    "hostname": "saambaa-static.azureedge.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "saambaa.com": {
+    "hostname": "saambaa.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sac.thesun.co.uk": {
+    "hostname": "sac.thesun.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sb.scorecardresearch.com": {
+    "hostname": "sb.scorecardresearch.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.4dex.io": {
+    "hostname": "script.4dex.io",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.crazyegg.com": {
+    "hostname": "script.crazyegg.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "script.wikia.nocookie.net": {
+    "hostname": "script.wikia.nocookie.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scripts.dailymail.co.uk": {
+    "hostname": "scripts.dailymail.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "scripts.webcontentassessor.com": {
+    "hostname": "scripts.webcontentassessor.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "se.semasio.net": {
+    "hostname": "se.semasio.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure-dcr.imrworldwide.com": {
+    "hostname": "secure-dcr.imrworldwide.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.adnxs.com": {
+    "hostname": "secure.adnxs.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.cdn.fastclick.net": {
+    "hostname": "secure.cdn.fastclick.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "secure.quantserve.com": {
+    "hostname": "secure.quantserve.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "securepubads.g.doubleclick.net": {
+    "hostname": "securepubads.g.doubleclick.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "seg.ad.gt": {
+    "hostname": "seg.ad.gt",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "serve-euro.acuityplatform.com": {
+    "hostname": "serve-euro.acuityplatform.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "server.ethicalads.io": {
+    "hostname": "server.ethicalads.io",
+    "firstPartyHostnames": [
+      "numpydoc.readthedocs.io"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "services.fandom.com": {
+    "hostname": "services.fandom.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage2.pubmatic.com": {
+    "hostname": "simage2.pubmatic.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "simage4.pubmatic.com": {
+    "hostname": "simage4.pubmatic.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "siteimproveanalytics.com": {
+    "hostname": "siteimproveanalytics.com",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "snap.licdn.com": {
+    "hostname": "snap.licdn.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sourcepoint.theguardian.com": {
+    "hostname": "sourcepoint.theguardian.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "spl.zeotap.com": {
+    "hostname": "spl.zeotap.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sqs.us-east-1.amazonaws.com": {
+    "hostname": "sqs.us-east-1.amazonaws.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssbsync.smartadserver.com": {
+    "hostname": "ssbsync.smartadserver.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssc-cms.33across.com": {
+    "hostname": "ssc-cms.33across.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssl.p.jwpcdn.com": {
+    "hostname": "ssl.p.jwpcdn.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssp-sync.criteo.com": {
+    "hostname": "ssp-sync.criteo.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com",
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssp.disqus.com": {
+    "hostname": "ssp.disqus.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssp.wknd.ai": {
+    "hostname": "ssp.wknd.ai",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ssum-sec.casalemedia.com": {
+    "hostname": "ssum-sec.casalemedia.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stackoverflow-privacy.my.onetrust.com": {
+    "hostname": "stackoverflow-privacy.my.onetrust.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stackoverflow.com": {
+    "hostname": "stackoverflow.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "ajax.googleapis.com",
+      "cdn.cookielaw.org",
+      "cdn.sstatic.net",
+      "www.gravatar.com",
+      "i.sstatic.net",
+      "www.googletagmanager.com",
+      "pagead2.googlesyndication.com",
+      "platform-lookaside.fbsbx.com",
+      "accounts.google.com",
+      "geolocation.onetrust.com",
+      "region1.google-analytics.com",
+      "ep1.adtrafficquality.google",
+      "securepubads.g.doubleclick.net",
+      "a85a08488fc0d28e4e410794e768892c.safeframe.googlesyndication.com",
+      "ep2.adtrafficquality.google",
+      "tpc.googlesyndication.com",
+      "www.google.com",
+      "ams3-ib.adnxs.com",
+      "www.googletagservices.com",
+      "cdn.adnxs.com",
+      "stackoverflow-privacy.my.onetrust.com",
+      "adsdk.microsoft.com",
+      "ad.doubleclick.net",
+      "cdn.doubleverify.com",
+      "www.googleadservices.com",
+      "rtb0.doubleverify.com",
+      "tps.doubleverify.com",
+      "ads.everesttech.net",
+      "dco-assets.everestads.net",
+      "rtbc-ew1.doubleverify.com",
+      "tpsc-ew1.doubleverify.com",
+      "analyticspixel.microsoft.com"
+    ]
+  },
+  "static-cdn.spot.im": {
+    "hostname": "static-cdn.spot.im",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.ads-twitter.com": {
+    "hostname": "static.ads-twitter.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.adsafeprotected.com": {
+    "hostname": "static.adsafeprotected.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.clmbtech.com": {
+    "hostname": "static.clmbtech.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.cloudflareinsights.com": {
+    "hostname": "static.cloudflareinsights.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.criteo.net": {
+    "hostname": "static.criteo.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.growthrx.in": {
+    "hostname": "static.growthrx.in",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.guim.co.uk": {
+    "hostname": "static.guim.co.uk",
+    "firstPartyHostnames": [
+      "www.theguardian.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "static.wikia.nocookie.net": {
+    "hostname": "static.wikia.nocookie.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "stats.g.doubleclick.net": {
+    "hostname": "stats.g.doubleclick.net",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "styles.redditmedia.com": {
+    "hostname": "styles.redditmedia.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "subscriptions.economictimes.indiatimes.com": {
+    "hostname": "subscriptions.economictimes.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "survey.survicate.com": {
+    "hostname": "survey.survicate.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "surveys-static-prd.survicate-cdn.com": {
+    "hostname": "surveys-static-prd.survicate-cdn.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync-amz.ads.yieldmo.com": {
+    "hostname": "sync-amz.ads.yieldmo.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync-openx.ads.yieldmo.com": {
+    "hostname": "sync-openx.ads.yieldmo.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync-tm.everesttech.net": {
+    "hostname": "sync-tm.everesttech.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.1rx.io": {
+    "hostname": "sync.1rx.io",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.adkernel.com": {
+    "hostname": "sync.adkernel.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.admanmedia.com": {
+    "hostname": "sync.admanmedia.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.aniview.com": {
+    "hostname": "sync.aniview.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.bfmio.com": {
+    "hostname": "sync.bfmio.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.crwdcntrl.net": {
+    "hostname": "sync.crwdcntrl.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.e-planning.net": {
+    "hostname": "sync.e-planning.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.e-volution.ai": {
+    "hostname": "sync.e-volution.ai",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.go.sonobi.com": {
+    "hostname": "sync.go.sonobi.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.inmobi.com": {
+    "hostname": "sync.inmobi.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.outbrain.com": {
+    "hostname": "sync.outbrain.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.richaudience.com": {
+    "hostname": "sync.richaudience.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.srv.stackadapt.com": {
+    "hostname": "sync.srv.stackadapt.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.sxp.smartclip.net": {
+    "hostname": "sync.sxp.smartclip.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "sync.teads.tv": {
+    "hostname": "sync.teads.tv",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "syndication.twitter.com": {
+    "hostname": "syndication.twitter.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.adx.opera.com": {
+    "hostname": "t.adx.opera.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.co": {
+    "hostname": "t.co",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "t.dailymail.co.uk": {
+    "hostname": "t.dailymail.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tag.wknd.ai": {
+    "hostname": "tag.wknd.ai",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.crwdcntrl.net": {
+    "hostname": "tags.crwdcntrl.net",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.expo9.exponential.com": {
+    "hostname": "tags.expo9.exponential.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.thesun.co.uk": {
+    "hostname": "tags.thesun.co.uk",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tags.tiqcdn.com": {
+    "hostname": "tags.tiqcdn.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "targeting.vdo.ai": {
+    "hostname": "targeting.vdo.ai",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tcheck.outbrainimg.com": {
+    "hostname": "tcheck.outbrainimg.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "td.doubleclick.net": {
+    "hostname": "td.doubleclick.net",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ted.dailymail.co.uk": {
+    "hostname": "ted.dailymail.co.uk",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "timesofindia.indiatimes.com": {
+    "hostname": "timesofindia.indiatimes.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tlx.3lift.com": {
+    "hostname": "tlx.3lift.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "token.rubiconproject.com": {
+    "hostname": "token.rubiconproject.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "topics.authorizedvault.com": {
+    "hostname": "topics.authorizedvault.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpc.googlesyndication.com": {
+    "hostname": "tpc.googlesyndication.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tps.doubleverify.com": {
+    "hostname": "tps.doubleverify.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tpsc-ew1.doubleverify.com": {
+    "hostname": "tpsc-ew1.doubleverify.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tr.blismedia.com": {
+    "hostname": "tr.blismedia.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "track.adform.net": {
+    "hostname": "track.adform.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tracking.crazyegg.com": {
+    "hostname": "tracking.crazyegg.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "trc.taboola.com": {
+    "hostname": "trc.taboola.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ts.amazon-adsystem.com": {
+    "hostname": "ts.amazon-adsystem.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "tungsten-service.prod.eu.adsqtungsten.a9.amazon.dev": {
+    "hostname": "tungsten-service.prod.eu.adsqtungsten.a9.amazon.dev",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "u-ams03.e-planning.net": {
+    "hostname": "u-ams03.e-planning.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "u.openx.net": {
+    "hostname": "u.openx.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "uipglob.semasio.net": {
+    "hostname": "uipglob.semasio.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "uk-script.dotmetrics.net": {
+    "hostname": "uk-script.dotmetrics.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "um.simpli.fi": {
+    "hostname": "um.simpli.fi",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ums.acuityplatform.com": {
+    "hostname": "ums.acuityplatform.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "upload.wikimedia.org": {
+    "hostname": "upload.wikimedia.org",
+    "firstPartyHostnames": [
+      "en.wikipedia.org"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "ups.analytics.yahoo.com": {
+    "hostname": "ups.analytics.yahoo.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us-u.openx.net": {
+    "hostname": "us-u.openx.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "us.ck-ie.com": {
+    "hostname": "us.ck-ie.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "usersync.getpublica.com": {
+    "hostname": "usersync.getpublica.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "usersync.gumgum.com": {
+    "hostname": "usersync.gumgum.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "v.redd.it": {
+    "hostname": "v.redd.it",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vid.connatix.com": {
+    "hostname": "vid.connatix.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "videos-cloudfront-usp.jwpsrv.com": {
+    "hostname": "videos-cloudfront-usp.jwpsrv.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "videosdigitals.uab.cat": {
+    "hostname": "videosdigitals.uab.cat",
+    "firstPartyHostnames": [
+      "www.uab.cat"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "view.cdnbasket.net": {
+    "hostname": "view.cdnbasket.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "visitor.omnitagjs.com": {
+    "hostname": "visitor.omnitagjs.com",
+    "firstPartyHostnames": [
+      "www.theguardian.com",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vjs.zencdn.net": {
+    "hostname": "vjs.zencdn.net",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk",
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "vtrk.doubleverify.com": {
+    "hostname": "vtrk.doubleverify.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "web-sandbox.oaiusercontent.com": {
+    "hostname": "web-sandbox.oaiusercontent.com",
+    "firstPartyHostnames": [
+      "chatgpt.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "webads-pbs.relevant-digital.com": {
+    "hostname": "webads-pbs.relevant-digital.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "webc2s.pubgw.yahoo.com": {
+    "hostname": "webc2s.pubgw.yahoo.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget-pixels.outbrain.com": {
+    "hostname": "widget-pixels.outbrain.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widget.as.criteo.com": {
+    "hostname": "widget.as.criteo.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgetmonitor.outbrain.com": {
+    "hostname": "widgetmonitor.outbrain.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "widgets.outbrain.com": {
+    "hostname": "widgets.outbrain.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wikia-d.openx.net": {
+    "hostname": "wikia-d.openx.net",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "wt.rqtrk.eu": {
+    "hostname": "wt.rqtrk.eu",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.amazon.com": {
+    "hostname": "www.amazon.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "images-na.ssl-images-amazon.com",
+      "m.media-amazon.com",
+      "c.amazon-adsystem.com",
+      "s.amazon-adsystem.com",
+      "ara.paa-reporting-advertising.amazon"
+    ]
+  },
+  "www.artfut.com": {
+    "hostname": "www.artfut.com",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.btd-zaz.tq-tungsten.com": {
+    "hostname": "www.btd-zaz.tq-tungsten.com",
+    "firstPartyHostnames": [
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.clarity.ms": {
+    "hostname": "www.clarity.ms",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.dailymail.co.uk": {
+    "hostname": "www.dailymail.co.uk",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "i.dailymail.co.uk",
+      "s.go-mpulse.net",
+      "c.go-mpulse.net",
+      "www.googletagmanager.com",
+      "fonts.googleapis.com",
+      "scripts.dailymail.co.uk",
+      "ted.dailymail.co.uk",
+      "uk-script.dotmetrics.net",
+      "t.dailymail.co.uk",
+      "fonts.gstatic.com",
+      "hulkprod.anm.co.uk",
+      "crta.dailymail.co.uk",
+      "www.google.es",
+      "region1.analytics.google.com",
+      "stats.g.doubleclick.net",
+      "www.google.com",
+      "cmp.dmgmediaprivacy.co.uk",
+      "imasdk.googleapis.com",
+      "scripts.webcontentassessor.com",
+      "securepubads.g.doubleclick.net",
+      "launcher.spot.im",
+      "static-cdn.spot.im",
+      "publisher-assets.spot.im",
+      "direct-events-collector.spot.im",
+      "rm-script.dotmetrics.net",
+      "api-2-0.spot.im",
+      "684dd32d.akstat.io",
+      "pix.spot.im",
+      "api.permutive.com",
+      "iad.anm.co.uk",
+      "fundingchoicesmessages.google.com",
+      "cdn.id5-sync.com",
+      "sync.sxp.smartclip.net",
+      "c.amazon-adsystem.com",
+      "connect.facebook.net",
+      "5f42864d-a421-4f37-9478-00266f871d68.edge.permutive.app",
+      "capi.connatix.com",
+      "cd.connatix.com",
+      "fcp.codes",
+      "widgets.outbrain.com",
+      "cds.connatix.com",
+      "cdn.jsdelivr.net",
+      "id5-sync.com",
+      "config.aps.amazon-adsystem.com",
+      "match.adsrvr.org",
+      "cdn.fcp.codes",
+      "invstatic101.creativecdn.com",
+      "oa.openxcdn.net",
+      "cdn-ima.33across.com",
+      "cdn.prod.uidapi.com",
+      "widget-pixels.outbrain.com",
+      "tag.wknd.ai",
+      "lb.eu-1-id5-sync.com",
+      "www.facebook.com",
+      "aax.amazon-adsystem.com",
+      "mv.outbrain.com",
+      "grid-bidder.criteo.com",
+      "htlb.casalemedia.com",
+      "ib.adnxs.com",
+      "webc2s.pubgw.yahoo.com",
+      "fastlane.rubiconproject.com",
+      "tlx.3lift.com",
+      "prg.smartadserver.com",
+      "rtb.openx.net",
+      "g2.gumgum.com",
+      "oajs.openx.net",
+      "fcp-api.footballco.cloud",
+      "elb.the-ozone-project.com",
+      "esp.rtbhouse.com",
+      "assets.bounceexchange.com",
+      "aax-eu.amazon-adsystem.com",
+      "mcdp-nldc1.outbrain.com",
+      "mgmotors.solution.weborama.fr",
+      "ssum-sec.casalemedia.com",
+      "dsum-sec.casalemedia.com",
+      "dsum.casalemedia.com",
+      "aa.agkn.com",
+      "sync-tm.everesttech.net",
+      "idsync.rlcdn.com",
+      "cm.g.doubleclick.net",
+      "google-bidout-d.openx.net",
+      "c.bing.com",
+      "sync.crwdcntrl.net",
+      "t.adx.opera.com",
+      "sync.outbrain.com",
+      "players.brightcove.net",
+      "images.outbrainimg.com",
+      "dpm.demdex.net",
+      "gum.criteo.com",
+      "mailonline-uk-d.openx.net",
+      "acdn.adnxs.com",
+      "eus.rubiconproject.com",
+      "eb2.3lift.com",
+      "js-sec.indexww.com",
+      "us-u.openx.net",
+      "token.rubiconproject.com",
+      "rtb.mfadsrvr.com",
+      "ep1.adtrafficquality.google",
+      "pixel.rubiconproject.com",
+      "s.amazon-adsystem.com",
+      "0aedd9fe162dc53aa700c066f9740249.safeframe.googlesyndication.com",
+      "px.ads.linkedin.com",
+      "pbs.yahoo.com",
+      "tr.blismedia.com",
+      "ap.lijit.com",
+      "match.prod.bidr.io",
+      "pixel.tapad.com",
+      "live.primis.tech",
+      "match.sharethrough.com",
+      "ps.eyeota.net",
+      "ums.acuityplatform.com",
+      "pr-bh.ybp.yahoo.com",
+      "ups.analytics.yahoo.com",
+      "ice.360yield.com",
+      "s.ad.smaato.net",
+      "cdn.indexww.com",
+      "vjs.zencdn.net",
+      "pagead2.googlesyndication.com",
+      "edge.api.brightcove.com",
+      "cdn.ampproject.org",
+      "tpc.googlesyndication.com",
+      "ssbsync.smartadserver.com",
+      "m.media-amazon.com",
+      "pixel.quantcount.com",
+      "track.adform.net",
+      "content.quantcount.com",
+      "ts.amazon-adsystem.com",
+      "eu-google-rtb.quantserve.com",
+      "a4341.casalemedia.com",
+      "d.adroll.com",
+      "a4516.casalemedia.com",
+      "k8s1-event-tracker-am.lb.indexww.com",
+      "pixel.adsafeprotected.com",
+      "s1.adform.net",
+      "pixel.quantserve.com",
+      "a5044.casalemedia.com",
+      "exch.quantcount.com",
+      "www.googleadservices.com",
+      "aes.eu-west.3px.axp.amazon-adsystem.com",
+      "tungsten-service.prod.eu.adsqtungsten.a9.amazon.dev",
+      "www.btd-zaz.tq-tungsten.com",
+      "a5292.casalemedia.com",
+      "static.adsafeprotected.com",
+      "www.googletagservices.com",
+      "ep2.adtrafficquality.google",
+      "a5120.casalemedia.com",
+      "metrics.brightcove.com",
+      "ins.connatix.com",
+      "vid.connatix.com",
+      "lit.connatix.com",
+      "ads.pubmatic.com",
+      "cs-server-s2s.yellowblue.io",
+      "id.rlcdn.com",
+      "ssc-cms.33across.com",
+      "cs.yellowblue.io",
+      "um.simpli.fi",
+      "connatix-supply-partners.tremorhub.com",
+      "dt.adsafeprotected.com",
+      "cks.connatix.com",
+      "lngtd.com",
+      "s0.2mdn.net",
+      "sb.scorecardresearch.com",
+      "www.google-analytics.com",
+      "pub.doubleverify.com",
+      "x.bidswitch.net",
+      "secure.adnxs.com",
+      "img.connatix.com",
+      "secure.cdn.fastclick.net",
+      "hbopenbid.pubmatic.com",
+      "u.openx.net",
+      "pubads.g.doubleclick.net",
+      "ms-cookie-sync.presage.io",
+      "odr.mookie1.com",
+      "csi.gstatic.com",
+      "rtb-csync.smartadserver.com",
+      "house-fastly-signed-eu-west-1-prod.brightcovecdn.com",
+      "usersync.getpublica.com",
+      "prebid-server.rubiconproject.com",
+      "manifest.prod.boltdns.net",
+      "images-eu.ssl-images-amazon.com",
+      "page.cdnbasket.net",
+      "view.cdnbasket.net",
+      "data.cdnbasket.net",
+      "s.lngtdv.com",
+      "dplayer.lngtd.com",
+      "a3187.casalemedia.com",
+      "k8s1-event-tracker-fr.lb.indexww.com",
+      "api.bounceexchange.com",
+      "assets.connatix.com",
+      "events.bouncex.net",
+      "ids.cdnwidget.com",
+      "it.lngtd.com",
+      "ats.rlcdn.com",
+      "script.4dex.io",
+      "ssp.wknd.ai",
+      "connatix-d.openx.net",
+      "cdn.taboola.com",
+      "pa.openx.net",
+      "topics.authorizedvault.com",
+      "ad.360yield.com",
+      "vtrk.doubleverify.com",
+      "geo.privacymanager.io",
+      "cadmus.script.ac",
+      "a4380.casalemedia.com",
+      "a4470.casalemedia.com",
+      "csync.smartadserver.com",
+      "footballco-d.openx.net",
+      "js.outcomes.net",
+      "www.amazon.com",
+      "serve-euro.acuityplatform.com",
+      "googleads.g.doubleclick.net",
+      "cdn.acuityplatform.com",
+      "origin.acuityplatform.com",
+      "prebid.adnxs.com"
+    ]
+  },
+  "www.facebook.com": {
+    "hostname": "www.facebook.com",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": true,
+    "thirdParties": []
+  },
+  "www.fandom.com": {
+    "hostname": "www.fandom.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.fastly-insights.com": {
+    "hostname": "www.fastly-insights.com",
+    "firstPartyHostnames": [
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google-analytics.com": {
+    "hostname": "www.google-analytics.com",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.google.com": {
+    "hostname": "www.google.com",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "consent.youtube.com",
+      "www.youtube.com",
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "www.reddit.com",
+      "economictimes.indiatimes.com",
+      "www.theguardian.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "www.googleadservices.com",
+      "www.gstatic.com",
+      "fonts.gstatic.com"
+    ]
+  },
+  "www.google.es": {
+    "hostname": "www.google.es",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googleadservices.com": {
+    "hostname": "www.googleadservices.com",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagmanager.com": {
+    "hostname": "www.googletagmanager.com",
+    "firstPartyHostnames": [
+      "www.uab.cat",
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk",
+      "minecraft.fandom.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.googletagservices.com": {
+    "hostname": "www.googletagservices.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "stackoverflow.com",
+      "www.theguardian.com",
+      "economictimes.indiatimes.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gravatar.com": {
+    "hostname": "www.gravatar.com",
+    "firstPartyHostnames": [
+      "stackoverflow.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.gstatic.com": {
+    "hostname": "www.gstatic.com",
+    "firstPartyHostnames": [
+      "www.google.com",
+      "consent.youtube.com",
+      "www.youtube.com",
+      "www.reddit.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.reddit.com": {
+    "hostname": "www.reddit.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "www.redditstatic.com",
+      "styles.redditmedia.com",
+      "preview.redd.it",
+      "external-preview.redd.it",
+      "emoji.redditmedia.com",
+      "b.thumbs.redditmedia.com",
+      "ad-delivery.net",
+      "www.google.com",
+      "accounts.google.com",
+      "v.redd.it",
+      "www.gstatic.com",
+      "fonts.gstatic.com",
+      "i.redd.it",
+      "a.thumbs.redditmedia.com"
+    ]
+  },
+  "www.redditstatic.com": {
+    "hostname": "www.redditstatic.com",
+    "firstPartyHostnames": [
+      "www.reddit.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "www.theguardian.com": {
+    "hostname": "www.theguardian.com",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "assets.guim.co.uk",
+      "i.guim.co.uk",
+      "sourcepoint.theguardian.com",
+      "ophan.theguardian.com",
+      "api.nextgen.guardianapps.co.uk",
+      "contributions.guardianapis.com",
+      "static.guim.co.uk",
+      "interactive.guim.co.uk",
+      "c.amazon-adsystem.com",
+      "a.teads.tv",
+      "cdn.permutive.com",
+      "www.googleadservices.com",
+      "static.ads-twitter.com",
+      "cdn.confiant-integrations.net",
+      "cdn.brandmetrics.com",
+      "cdn.adsafeprotected.com",
+      "marketingplatform.google.com",
+      "sb.scorecardresearch.com",
+      "securepubads.g.doubleclick.net",
+      "config.aps.amazon-adsystem.com",
+      "at.teads.tv",
+      "googleads.g.doubleclick.net",
+      "t.co",
+      "analytics.twitter.com",
+      "d6691a17-6fdb-4d26-85d6-b3dd27f55f08.prmutv.co",
+      "ib.adnxs.com",
+      "collector.brandmetrics.com",
+      "api.permutive.com",
+      "pixel.adsafeprotected.com",
+      "aax.amazon-adsystem.com",
+      "bidder.criteo.com",
+      "rtb.openx.net",
+      "htlb.casalemedia.com",
+      "hb-api.omnitagjs.com",
+      "fastlane.rubiconproject.com",
+      "elb.the-ozone-project.com",
+      "hbopenbid.pubmatic.com",
+      "ep1.adtrafficquality.google",
+      "67bcb14cf8f6724cdf83816de272a76d.safeframe.googlesyndication.com",
+      "ep2.adtrafficquality.google",
+      "pagead2.googlesyndication.com",
+      "static.criteo.net",
+      "tpc.googlesyndication.com",
+      "performance-events.guardianapis.com",
+      "visitor.omnitagjs.com",
+      "js-sec.indexww.com",
+      "ads.pubmatic.com",
+      "eus.rubiconproject.com",
+      "token.rubiconproject.com",
+      "www.google.com",
+      "onetag-sys.com",
+      "ssbsync.smartadserver.com",
+      "gum.criteo.com",
+      "api-2-0.spot.im",
+      "s.ad.smaato.net",
+      "pixel.rubiconproject.com",
+      "pubads.g.doubleclick.net",
+      "rtb.mfadsrvr.com",
+      "ssum-sec.casalemedia.com",
+      "s.amazon-adsystem.com",
+      "cm.g.doubleclick.net",
+      "rtb-csync.smartadserver.com",
+      "dsum-sec.casalemedia.com",
+      "px.ads.linkedin.com",
+      "pr-bh.ybp.yahoo.com",
+      "ads.stickyadstv.com",
+      "ups.analytics.yahoo.com",
+      "aax-eu.amazon-adsystem.com",
+      "dpm.demdex.net",
+      "match.prod.bidr.io",
+      "www.googletagservices.com",
+      "static.adsafeprotected.com",
+      "live.primis.tech",
+      "ce.lijit.com",
+      "cdn.indexww.com",
+      "r.casalemedia.com",
+      "match.sharethrough.com",
+      "ads.betweendigital.com",
+      "pixel.tapad.com",
+      "id5-sync.com",
+      "prebid.a-mo.net",
+      "id.rlcdn.com",
+      "bttrack.com",
+      "dt.adsafeprotected.com",
+      "ssp-sync.criteo.com",
+      "cdn.ampproject.org"
+    ]
+  },
+  "www.thesun.co.uk": {
+    "hostname": "www.thesun.co.uk",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "players.brightcove.net",
+      "client.aps.amazon-adsystem.com",
+      "config.aps.amazon-adsystem.com",
+      "cdn.parsely.com",
+      "cmp.cdn.thesun.co.uk",
+      "ads.thesun.co.uk",
+      "ptr.thesun.co.uk",
+      "tags.tiqcdn.com",
+      "c.amazon-adsystem.com",
+      "p1.parsely.com",
+      "www.googletagmanager.com",
+      "scripts.webcontentassessor.com",
+      "tags.thesun.co.uk",
+      "uk-script.dotmetrics.net",
+      "sb.scorecardresearch.com",
+      "nid.thesun.co.uk",
+      "pac.thesun.co.uk",
+      "rm-script.dotmetrics.net",
+      "region1.google-analytics.com",
+      "sac.thesun.co.uk",
+      "cdn.onesignal.com",
+      "onesignal.com",
+      "js-agent.newrelic.com",
+      "bam.nr-data.net",
+      "connect.facebook.net",
+      "securepubads.g.doubleclick.net",
+      "cdn.brandmetrics.com",
+      "ak.sail-horizon.com",
+      "static.ads-twitter.com",
+      "applets.ebxcdn.com",
+      "secure.quantserve.com",
+      "a15853140465.cdn-pci.optimizely.com",
+      "pagead2.googlesyndication.com",
+      "pixel.quantserve.com",
+      "rules.quantcount.com",
+      "t.co",
+      "brwsrfrm.com",
+      "analytics.twitter.com",
+      "benelph.de",
+      "cdn.permutive.com",
+      "api.sail-personalize.com",
+      "cdn.jsdelivr.net",
+      "invstatic101.creativecdn.com",
+      "static.criteo.net",
+      "oa.openxcdn.net",
+      "aax.amazon-adsystem.com",
+      "www.facebook.com",
+      "pixel.adsafeprotected.com",
+      "secure.cdn.fastclick.net",
+      "prebid-server.rubiconproject.com",
+      "a.teads.tv",
+      "hbopenbid.pubmatic.com",
+      "htlb.casalemedia.com",
+      "fastlane.rubiconproject.com",
+      "g2.gumgum.com",
+      "logx.optimizely.com",
+      "bidder.criteo.com",
+      "ib.adnxs.com",
+      "tlx.3lift.com",
+      "elb.the-ozone-project.com",
+      "b1h.zemanta.com",
+      "collector.brandmetrics.com",
+      "esp.rtbhouse.com",
+      "oajs.openx.net",
+      "ep1.adtrafficquality.google",
+      "6109f7a780853bca51ed06976e93fa12.safeframe.googlesyndication.com",
+      "gum.criteo.com",
+      "aax-eu.amazon-adsystem.com",
+      "ep2.adtrafficquality.google",
+      "google-bidout-d.openx.net",
+      "88a66e5c-8fe8-48af-9c6c-3ec3f4983aad.prmutv.co",
+      "eb2.3lift.com",
+      "commercial-analytics-collector.news.co.uk",
+      "cm.g.doubleclick.net",
+      "api.permutive.com",
+      "www.google.com",
+      "u.openx.net",
+      "rtb.gumgum.com",
+      "ads.pubmatic.com",
+      "ms-cookie-sync.presage.io",
+      "eus.rubiconproject.com",
+      "match.sharethrough.com",
+      "ssum-sec.casalemedia.com",
+      "widgets.outbrain.com",
+      "tpc.googlesyndication.com",
+      "px.ads.linkedin.com",
+      "sync-amz.ads.yieldmo.com",
+      "sync.srv.stackadapt.com",
+      "ce.lijit.com",
+      "aam.a47b.com",
+      "x.bidswitch.net",
+      "ad.turn.com",
+      "s.amazon-adsystem.com",
+      "acdn.adnxs.com",
+      "api.rlcdn.com",
+      "image6.pubmatic.com",
+      "js-sec.indexww.com",
+      "usersync.gumgum.com",
+      "c1.adform.net",
+      "simage2.pubmatic.com",
+      "image2.pubmatic.com",
+      "pixel.onaudience.com",
+      "um.simpli.fi",
+      "mwzeom.zeotap.com",
+      "token.rubiconproject.com",
+      "simage4.pubmatic.com",
+      "match.deepintent.com",
+      "uipglob.semasio.net",
+      "ssbsync.smartadserver.com",
+      "pr-bh.ybp.yahoo.com",
+      "dsp-cookie.adfarm1.adition.com",
+      "image4.pubmatic.com",
+      "sync.crwdcntrl.net",
+      "pixel-sync.sitescout.com",
+      "s.ad.smaato.net",
+      "dpm.demdex.net",
+      "dsum-sec.casalemedia.com",
+      "rtb-csync.smartadserver.com",
+      "static.cloudflareinsights.com",
+      "image8.pubmatic.com",
+      "ads.yieldmo.com",
+      "wt.rqtrk.eu",
+      "ipac.ctnsnet.com",
+      "d5p.de17a.com",
+      "core.iprom.net",
+      "cm.adgrx.com",
+      "match.prod.bidr.io",
+      "us-u.openx.net",
+      "pixel.rubiconproject.com",
+      "s.tribalfusion.com",
+      "bttrack.com",
+      "live.primis.tech",
+      "prebid.a-mo.net",
+      "hbx.media.net",
+      "ups.analytics.yahoo.com",
+      "ssc-cms.33across.com",
+      "dis.criteo.com",
+      "match.adsrvr.org",
+      "c21lg-d.media.net",
+      "rtb.mfadsrvr.com",
+      "pbs-cs.yellowblue.io",
+      "sync.go.sonobi.com",
+      "pxl.iqm.com",
+      "widget-pixels.outbrain.com",
+      "contextual.media.net",
+      "cs.media.net",
+      "tcheck.outbrainimg.com",
+      "idsync.rlcdn.com",
+      "sync.outbrain.com",
+      "bpi.rtactivate.com",
+      "sync.aniview.com",
+      "www.googleadservices.com",
+      "sync.bfmio.com",
+      "mv.outbrain.com",
+      "images.outbrainimg.com",
+      "zem.outbrainimg.com",
+      "mcdp-nldc1.outbrain.com",
+      "ice.360yield.com",
+      "www.googletagservices.com",
+      "b1-nldc1.zemanta.com",
+      "b1t-nldc1.zemanta.com",
+      "aa.agkn.com",
+      "c.bing.com",
+      "amplify-imp.outbrain.com",
+      "loadus.exelator.com",
+      "widgetmonitor.outbrain.com",
+      "onetag-sys.com",
+      "log.outbrainimg.com",
+      "vjs.zencdn.net",
+      "imasdk.googleapis.com",
+      "metrics.brightcove.com",
+      "edge.api.brightcove.com",
+      "ovp.iris.tv",
+      "s0.2mdn.net",
+      "newskit.newsapis.co.uk",
+      "manifest.prod.boltdns.net",
+      "cf-images.eu-west-1.prod.boltdns.net",
+      "content.quantcount.com",
+      "a4434.casalemedia.com",
+      "exch.quantcount.com",
+      "pixel.quantcount.com",
+      "static.adsafeprotected.com",
+      "ad.doubleclick.net",
+      "d.adroll.com",
+      "sync-tm.everesttech.net",
+      "fw.adsafeprotected.com",
+      "dt.adsafeprotected.com",
+      "nuk-widgets.fanhubmedia.com",
+      "fgp-data-eu.s3.amazonaws.com",
+      "code.createjs.com",
+      "ade.googlesyndication.com"
+    ]
+  },
+  "www.uab.cat": {
+    "hostname": "www.uab.cat",
+    "firstPartyHostnames": false,
+    "firstParty": true,
+    "thirdParties": [
+      "code.jquery.com",
+      "consent.cookiebot.com",
+      "consentcdn.cookiebot.com",
+      "videosdigitals.uab.cat",
+      "imgsct.cookiebot.com",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "www.google.com",
+      "cdn.mouseflow.com",
+      "connect.facebook.net",
+      "googleads.g.doubleclick.net",
+      "td.doubleclick.net",
+      "siteimproveanalytics.com",
+      "stats.g.doubleclick.net",
+      "region1.analytics.google.com",
+      "www.google.es",
+      "www.facebook.com",
+      "6097280.global.siteimproveanalytics.io"
+    ]
+  },
+  "www.youtube.com": {
+    "hostname": "www.youtube.com",
+    "firstPartyHostnames": [
+      "consent.youtube.com",
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": true,
+    "thirdParties": [
+      "i.ytimg.com",
+      "googleads.g.doubleclick.net",
+      "www.google.com",
+      "accounts.google.com",
+      "www.gstatic.com",
+      "fonts.gstatic.com",
+      "fonts.googleapis.com"
+    ]
+  },
+  "x.bidswitch.net": {
+    "hostname": "x.bidswitch.net",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk",
+      "economictimes.indiatimes.com",
+      "minecraft.fandom.com",
+      "www.dailymail.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "x.clarity.ms": {
+    "hostname": "x.clarity.ms",
+    "firstPartyHostnames": [
+      "economictimes.indiatimes.com"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  },
+  "zem.outbrainimg.com": {
+    "hostname": "zem.outbrainimg.com",
+    "firstPartyHostnames": [
+      "www.thesun.co.uk"
+    ],
+    "firstParty": false,
+    "thirdParties": []
+  }
+}
